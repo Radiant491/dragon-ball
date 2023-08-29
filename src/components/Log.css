@@ -1,0 +1,20 @@
+.ded{
+    text-align: center;
+  min-height: 100vh;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  
+}
+.log{
+  padding: 2cm;
+  color: white;
+  cursor: pointer;
+  padding: 5rem;
+  border: 1px solid white;
+  border-radius: 10px;
+}
+.mog{
+  text-align: justify;
+    justify-content: left;
+}
